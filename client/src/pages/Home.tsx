@@ -1,7 +1,12 @@
+import * as React from 'react';
+
+
 export const Home = () => {
-	return <div>
+	return (
+		<div>
 		Home
-	</div>
+		</div>
+	)
 
 }
 
